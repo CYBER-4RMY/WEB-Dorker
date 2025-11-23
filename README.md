@@ -1,7 +1,7 @@
 <h1 align="center">🌌 WEB-Dorker</h1>
 <h3 align="center">Advanced Multi-Engine Dorking Framework</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-CYBER--MRINAL-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Author-CYBER--4RMY-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Python-3.13-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
@@ -43,7 +43,7 @@ It merges **classic hacker-style dorking** with a **professional workflow**, ens
 
 Clone the repo:  
 ```bash
-git clone https://github.com/CYBER-MRINAL/WEB-Dorker.git
+git clone https://github.com/CYBER-4RMY/WEB-Dorker.git
 cd WEB-Dorker
 ````
 
@@ -97,7 +97,7 @@ Every session is preserved inside **`dork_logs/`** with rich formats:
 
 > 🛑 This project is created for **defensive security research only**.
 > Running WEB-Dorcker against systems you do not own or manage may be **illegal**.
-> The author (**CYBER-MRINAL**) is **not liable** for misuse.
+> The author (**CYBER-4RMY**) is **not liable** for misuse.
 > Always follow **responsible disclosure** and **ethical hacking principles**.
 
 ---
@@ -113,8 +113,8 @@ Every session is preserved inside **`dork_logs/`** with rich formats:
 
 ## 👨‍💻 Author
 
-**CYBER-MRINAL**
-🔗 [GitHub](https://github.com/CYBER-MRINAL) • 🌍 (^_^) | Purple Teamer | Cyber Security guy :)
+**CYBER-4RMY**
+🔗 [GitHub](https://github.com/CYBER-4RMY) • 🌍 (^_^) | Purple Teamer | Cyber Security guy :)
 
 ---
 
@@ -122,7 +122,6 @@ Every session is preserved inside **`dork_logs/`** with rich formats:
 
 This project is released under the **MIT License**.
 See the [LICENSE](LICENSE) file for full details.
-- If any query regarding this tool please ask me on my [TELEGRAM](https://t.me/cybermrinalgroup)
 
 ---
 
