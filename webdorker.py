@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Author: CYBER-MRINAL
-# GitHub: CYBER-MRINAL
+# Author: CYBER-4RMY
+# GitHub: CYBER-4RMY
 # Purpose: Professional multi-engine dorking tool (ethical use only)
 
 import webbrowser
